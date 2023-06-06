@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sumedha-glitch-stack
-- 👀 I’m interested in Sleeping
 - 🌱 I’m currently learning C++
 
 
